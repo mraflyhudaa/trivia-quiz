@@ -4,6 +4,10 @@
 
 @layer base {
   :root {
-    @apply m-20, sm:m-2;
+    @apply bg-[#d8eefe];
+  }
+  html,
+  body {
+    @apply h-full;
   }
 }
