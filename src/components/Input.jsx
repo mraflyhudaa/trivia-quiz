@@ -4,7 +4,7 @@ const Input = (props) => {
       <label
         htmlFor={props.htmlFor}
         key={props.key}
-        className='block font-semibold text-[#094067] mt-4'
+        className='block font-semibold text-[#094067]'
       >
         {props.label}
       </label>
